@@ -1,1 +1,1 @@
-Figure 1: Top and Bottom 10 Towns in Maine by Percent Change, 2023-2024
+Figure 2: Top and Bottom 10 Towns in Maine by Numeric Population Change, 2023-2024
